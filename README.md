@@ -3,3 +3,9 @@
 [![Version](https://img.shields.io/nuget/v/biz.dfch.CS.Appclusive.Abiquo.Constants.svg)](https://www.nuget.org/packages/biz.dfch.CS.Appclusive.Abiquo.Constants/)
 
 Constants for Appclusive related Abiquo scripts
+
+## Download
+
+* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.CS.Testing/)
+
+* See [Releases](https://github.com/dfch/biz.dfch.CS.Testing/releases) on [GitHub](https://github.com/dfch/biz.dfch.CS.Testing)

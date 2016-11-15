@@ -6,6 +6,6 @@ Constants for Appclusive related Abiquo scripts
 
 ## Download
 
-* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.CS.Testing/)
+* Get it on [NuGet](https://www.nuget.org/packages/biz.dfch.CS.Appclusive.Abiquo.Constants/)
 
-* See [Releases](https://github.com/dfch/biz.dfch.CS.Testing/releases) on [GitHub](https://github.com/dfch/biz.dfch.CS.Testing)
+* See [Releases](https://github.com/dfch/biz.dfch.CS.Appclusive.Abiquo.Constants/releases) on [GitHub](https://github.com/dfch/biz.dfch.CS.Appclusive.Abiquo.Constants)
